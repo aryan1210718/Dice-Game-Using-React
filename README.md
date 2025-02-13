@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Dice-Game-Using-React
->>>>>>> 5f5cfb2a59cc362dcb325f90999549f1f8d06734
+
