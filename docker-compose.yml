@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   dice-app:
-    image : docker push aryan1210718/dice-game:latest
+    image : aryan1210718/dice-game:latest
     container_name: dice-container
     ports:
       - "8081:80"
